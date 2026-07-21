@@ -3,7 +3,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Status-Ongoing-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Progress-7%2F9%20Weeks-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-8%2F9%20Weeks-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Powered%20By-Siemens-009999?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Platform-EduSkills-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Learning-Altair%20RapidMiner-purple?style=for-the-badge" />
@@ -18,7 +18,7 @@ This repository documents my learning journey through the **Siemens Data Science
 
 The internship follows a structured **9-week learning roadmap**, combining industry-oriented learning, assessments, and hands-on practice using **Altair RapidMiner**. Throughout the program, I am building practical skills in **Data Science**, **Machine Learning**, **Data Engineering**, and **Artificial Intelligence**.
 
-> **Current Status:** 🟢 Ongoing (7 of 9 Weeks Completed)
+> **Current Status:** 🟢 Ongoing (8 of 9 Weeks Completed)
 
 ---
 
@@ -32,7 +32,7 @@ The internship follows a structured **9-week learning roadmap**, combining indus
 | Learning Platform | Altair RapidMiner |
 | Supported By | AICTE |
 | Duration | June 2026 – August 2026 |
-| Current Progress | 7 / 9 Weeks Completed |
+| Current Progress | 8 / 9 Weeks Completed |
 | Status | Ongoing |
 
 ---
@@ -48,7 +48,7 @@ The internship follows a structured **9-week learning roadmap**, combining indus
 | Week 5 | Data Engineering Master | ✅ Completed |
 | Week 6 | Machine Learning Master | ✅ Completed |
 | Week 7 | Applications & Use Cases Master | ✅ Completed |
-| Week 8 | Upcoming Learning Module | 🔒 Locked |
+| Week 8 | Upcoming Learning Module | ✅ Completed |
 | Week 9 | Upcoming Learning Module | 🔒 Locked |
 
 ---
@@ -63,6 +63,7 @@ During the internship, I have successfully completed the following **Altair Rapi
 - ✅ Data Engineering Master
 - ✅ Machine Learning Master
 - ✅ Applications & Use Cases Master
+- ✅ Platform Administration Master
 
 > 📌 Additional certifications will be added as I complete the remaining internship modules.
 
