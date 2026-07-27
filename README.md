@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Status-Ongoing-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Progress-9%2F9%20Weeks-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Powered%20By-Siemens-009999?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Platform-EduSkills-orange?style=for-the-badge" />
