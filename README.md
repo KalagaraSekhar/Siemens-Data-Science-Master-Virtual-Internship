@@ -1,4 +1,4 @@
-# 🚀 Siemens Data Science Master Virtual Internship (Ongoing)
+# 🏆 Siemens Data Science Master Virtual Internship
 
 <p align="center">
 
@@ -14,11 +14,13 @@
 
 # 📖 About
 
-This repository documents my learning journey through the **Siemens Data Science Master Virtual Internship**, organized by **EduSkills** under the **AICTE Virtual Internship Program**.
+This repository documents my complete learning journey through the **Siemens Data Science Master Virtual Internship**, organized by **EduSkills** under the **AICTE Virtual Internship Program**.
 
-The internship follows a structured **9-week learning roadmap**, combining industry-oriented learning, assessments, and hands-on practice using **Altair RapidMiner**. Throughout the program, I am building practical skills in **Data Science**, **Machine Learning**, **Data Engineering**, and **Artificial Intelligence**.
+The internship followed a structured **9-week industry-oriented roadmap** covering Data Science, Machine Learning, Data Engineering, Artificial Intelligence, and hands-on learning using **Altair RapidMiner**.
 
-> **Current Status:** 🟢 Completed (9 of 9 Weeks Completed)
+Throughout the internship, I completed weekly assessments, practical exercises, and multiple professional certification modules while strengthening my understanding of real-world data science workflows.
+
+> **Status:** 🟢 Successfully Completed (9 of 9 Weeks)
 
 ---
 
@@ -32,8 +34,24 @@ The internship follows a structured **9-week learning roadmap**, combining indus
 | Learning Platform | Altair RapidMiner |
 | Supported By | AICTE |
 | Duration | June 2026 – August 2026 |
-| Current Progress | 9 / 9 Weeks Completed |
-| Status | Completed |
+| Progress | 9 / 9 Weeks Completed |
+| Status | ✅ Completed |
+
+---
+
+# 🏆 Internship Completion Certificate
+
+After successfully completing all **9 weeks** of the internship, I received the official **Siemens Data Science Master Virtual Internship Completion Certificate**.
+
+## 📄 Certificate
+
+👉 **[View Internship Certificate (PDF)](Internship%20Certificate/Data Science Master Virtual Internship.pdf)**
+
+## 🖼 Certificate Preview
+
+<p align="center">
+<img src="Internship%20Certificate/Certificate.png" width="900">
+</p>
 
 ---
 
@@ -48,14 +66,14 @@ The internship follows a structured **9-week learning roadmap**, combining indus
 | Week 5 | Data Engineering Master | ✅ Completed |
 | Week 6 | Machine Learning Master | ✅ Completed |
 | Week 7 | Applications & Use Cases Master | ✅ Completed |
-| Week 8 | Platfrom Administration Master | ✅ Completed |
+| Week 8 | Platform Administration Master | ✅ Completed |
 | Week 9 | Internship Grade Point Assessment | ✅ Completed |
 
 ---
 
 # 🏆 Certifications Earned
 
-During the internship, I have successfully completed the following **Altair RapidMiner Certifications**:
+During the internship, I successfully completed the following **Altair RapidMiner Professional & Master Certifications**:
 
 - ✅ Applications & Use Cases Professional
 - ✅ Data Engineering Professional
@@ -64,22 +82,24 @@ During the internship, I have successfully completed the following **Altair Rapi
 - ✅ Machine Learning Master
 - ✅ Applications & Use Cases Master
 - ✅ Platform Administration Master
-
-> 📌 Additional certifications will be added as I complete the remaining internship modules.
+- ✅ Siemens Data Science Master Virtual Internship Completion Certificate
 
 ---
 
 # 💡 Skills Gained
 
-### 📊 Data Science
+## 📊 Data Science
 
 - Business Problem Identification
+- Data Collection
+- Data Cleaning
 - Data Analysis
+- Exploratory Data Analysis (EDA)
 - Data Visualization
 - CRISP-DM Methodology
 - Data Preprocessing
 
-### 🤖 Machine Learning
+## 🤖 Machine Learning
 
 - Classification
 - Regression
@@ -87,11 +107,12 @@ During the internship, I have successfully completed the following **Altair Rapi
 - Association Rules
 - Feature Engineering
 - Cross Validation
+- Model Evaluation
 - Model Selection
 - Predictive Analytics
 - Time Series Forecasting
 
-### ⚙️ Data Engineering
+## ⚙️ Data Engineering
 
 - Data Loading
 - Data Transformation
@@ -101,19 +122,20 @@ During the internship, I have successfully completed the following **Altair Rapi
 - Web APIs
 - Regular Expressions
 
-### 🧠 Artificial Intelligence
+## 🧠 Artificial Intelligence
 
 - AI Applications
 - Model Deployment
 - Model Monitoring
 - ML Workflow Design
 
-### 🛠️ Tools & Technologies
+## 🛠 Tools & Technologies
 
 - Altair RapidMiner
-- Data Engineering Workflows
+- Python
 - Machine Learning Pipelines
 - Predictive Modeling
+- Data Engineering Workflows
 
 ---
 
@@ -124,84 +146,91 @@ Siemens-Data-Science-Master-Virtual-Internship
 │
 ├── README.md
 │
+├── Internship Certificate
+│   ├── Siemens_Data_Science_Master_Virtual_Internship_Certificate.pdf
+│   ├── certificate.png
+│   └── README.md
+│
 ├── Certifications
 │   ├── Applications & Use Cases Professional
 │   ├── Data Engineering Professional
 │   ├── Machine Learning Professional
 │   ├── Data Engineering Master
 │   ├── Machine Learning Master
-│   └── Applications & Use Cases Master
+│   ├── Applications & Use Cases Master
+│   └── Platform Administration Master
 │
 ├── Week-01-Account-Setup
-│
 ├── Week-02-Applications-and-Use-Cases-Professional
-│
 ├── Week-03-Data-Engineering-Professional
-│
 ├── Week-04-Machine-Learning-Professional
-│
 ├── Week-05-Data-Engineering-Master
-│
 ├── Week-06-Machine-Learning-Master
-│
 ├── Week-07-Applications-and-Use-Cases-Master
-│
-├── Week-08
-│
-└── Week-09
+├── Week-08-Platform-Administration-Master
+└── Week-09-Internship-Grade-Point-Assessment
 ```
 
 ---
 
 # 📈 Learning Outcomes
 
-Through this internship, I have gained practical exposure to:
+Throughout this internship, I developed practical knowledge in:
 
-- Identifying business problems suitable for AI and Machine Learning
-- Building end-to-end Machine Learning workflows
-- Data preparation and preprocessing techniques
-- Data Engineering concepts and workflow automation
-- Feature Engineering and Model Optimization
+- End-to-end Data Science workflows
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Machine Learning model development
+- Feature Engineering
 - Predictive Analytics
 - Time Series Forecasting
-- Model Deployment and Monitoring
-- Real-world problem-solving using Altair RapidMiner
+- Data Engineering concepts
+- Workflow Automation
+- AI-based business problem solving
+- Model Deployment & Monitoring
+- Industry-oriented analytical thinking
 
 ---
 
-# 🚀 Current Progress
+# 🚀 Internship Summary
 
-✅ Successfully completed **7 out of 9 weeks** of the internship.
+✅ Successfully completed all **9 weeks** of the internship.
 
-📚 Earned **6 Altair RapidMiner certifications**.
+🏆 Earned **7 Altair RapidMiner Professional & Master Certifications**.
 
-🔄 Continuing with the remaining internship modules and assessments.
+📄 Awarded the **Official Siemens Data Science Master Virtual Internship Completion Certificate**.
 
-🎯 Working towards the final **Siemens Data Science Master Virtual Internship Certificate**.
+📊 Strengthened practical knowledge in Data Science, Machine Learning, Artificial Intelligence, and Data Engineering.
+
+🎯 Built a strong foundation for future AI and Software Engineering projects.
 
 ---
 
-# 🎯 Future Updates
+# 🎯 Future Goals
 
-This repository will be continuously updated with:
+This internship has strengthened my foundation in Data Science and Machine Learning. Going forward, I plan to apply these skills to:
 
-- Weekly learning summaries
-- Notes and resources
-- Additional certifications
-- Final internship completion certificate
-- Key learnings and project outcomes
+- AI-powered applications
+- Machine Learning projects
+- Data Engineering workflows
+- Intelligent Automation
+- Real-world software development
 
 ---
 
 # 👨‍💻 About Me
 
-**Purna Venkata Sekhar Kalagara**
+## **Purna Venkata Sekhar Kalagara**
 
-- 🎓 B.Tech – Computer Science & Engineering
-- 💻 Aspiring Software Engineer
-- 📊 Data Science & Machine Learning Enthusiast
-- ☁️ AWS Certified Cloud Practitioner
-- 🚀 Passionate about AI, Data Engineering, and Full-Stack Development
+🎓 B.Tech – Computer Science & Engineering
+
+💻 Aspiring Software Engineer
+
+📊 AI • Data Science • Machine Learning Enthusiast
+
+☁️ AWS Certified Cloud Practitioner
+
+🚀 Passionate about Artificial Intelligence, Data Engineering, Full-Stack Development, and Building Intelligent Software Solutions.
 
 ---
 
