@@ -64,4 +64,3 @@ By completing this assessment, I demonstrated my understanding of:
 
 Completed
 
-Certificate: Awaiting issuance (Expected within 3–5 days)
