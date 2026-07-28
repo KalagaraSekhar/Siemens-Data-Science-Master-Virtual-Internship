@@ -45,12 +45,12 @@ After successfully completing all **9 weeks** of the internship, I received the 
 
 ## 📄 Certificate
 
-👉 **[View Internship Certificate (PDF)](Internship%20Certificate/Data Science Master Virtual Internship.pdf)**
+👉 **[View Internship Certificate (PDF)](./Internship%20Certificate/Data%20Science%20Master%20Virtual%20Internship.pdf)**
 
 ## 🖼 Certificate Preview
 
 <p align="center">
-<img src="Internship%20Certificate/Certificate.png" width="900">
+<img src="Internship%20Certificate/certificate.png" width="900">
 </p>
 
 ---
